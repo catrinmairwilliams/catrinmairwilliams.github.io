@@ -1,0 +1,12 @@
+h3{
+	font-size: 50px;
+	color: black;
+}
+.background{background-image: url("../img/pexels-photo-951240.jpeg");}
+.background{height:60px;}
+body{
+	background-color:white;
+}
+img{ width:250px;
+	height:200px;}
+h3{ height: 120px;}
